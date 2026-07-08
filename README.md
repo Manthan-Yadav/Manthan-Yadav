@@ -24,10 +24,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manthan-yadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=manthan-yadav&icon=0&color=0)](https://visitcount.itsvg.in)
+ <img src="https://komarev.com/ghpvc/?username=kanakyadav001&label=Profile%20views&color=0e75b6&style=flat" alt="Manthan-Yadav" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
