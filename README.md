@@ -25,6 +25,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
- <img src="https://komarev.com/ghpvc/?username=kanakyadav001&label=Profile%20views&color=0e75b6&style=flat" alt="Manthan-Yadav" />
+ <img src="https://komarev.com/ghpvc/?username=Manthan-Yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Manthan-Yadav" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
