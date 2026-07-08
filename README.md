@@ -103,7 +103,7 @@ A modern responsive portfolio showcasing my projects and skills.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manthan-yadav&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
