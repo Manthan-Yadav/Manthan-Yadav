@@ -4,7 +4,7 @@
 
 ### 💻 Passionate Full Stack Web Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+Developer;PHP+%7C+MySQL+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 </div>
 
 # 💫 About Me:
